@@ -11,3 +11,5 @@ Making another change/edit to cause a conflict
 >>>>>>> 7b37ec1dc3da4de8e873e252e64b715c462cb005
 
 Not sure what that was
+
+Getting started section to read me
